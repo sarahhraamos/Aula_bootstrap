@@ -1,0 +1,45 @@
+
+body {
+    font: 20px, Roboto;
+}
+.navbar {
+    margin-right: 20px;
+    margin-top: 0px;
+    background-color: white;
+}
+
+.quem-somos {
+    margin-top: 0px;
+    background-color: #F5758A;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.catalogo {
+    background-color: white;
+    color: black;
+}
+
+.servicos{
+    background-color: #F5758A;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.botao{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.form-inline{
+    margin-left: 300px;
+    margin-top: 10px;
+}
